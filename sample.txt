@@ -1,2 +1,6 @@
 first modify
+<<<<<<< HEAD
 third content
+=======
+second content
+>>>>>>> 528773e3a741db6337f5b5cf1905e3eff0ec2fe6
